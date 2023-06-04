@@ -1,0 +1,94 @@
+body{
+    height: 1500px;
+}
+.navbar{
+    position: fixed;
+    width: 70%;
+    background-color: rgba(250, 249, 249, 0.537);
+    height: 70px;
+    border-radius: 20px;
+}
+
+.collapse{
+direction: rtl;
+
+}
+.btn1{
+    background-color: black;
+    color: rgb(242, 242, 233);
+    width: auto;
+    height:45px ;
+    border-radius: 10px;
+    padding: 8px 16px;
+
+
+}
+.span1{
+    color: grey;
+    padding-left: 5px;
+
+}
+
+.search1 {
+    padding-left: 5px;
+    
+
+}
+/* =============================== */
+.section1{
+    text-align: center;
+    padding-top: 110px;
+    background-image:url(/img/download.png) ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    overflow: hidden;
+}
+.section1 h1 {
+    font-size: 50px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.section1 p {
+    color: rgba(0, 0, 0, 0.6);
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+.p2 {
+    padding-top: 30px;
+}
+.img2 {
+    width: 70% ;
+    padding-top: 15px;
+}
+
+/* =================================== */
+.row{
+    background-color: rgba(254, 254, 254, 0.032);
+}
+
+.right{
+    padding-top: 90px;
+    height: 300px;
+}
+
+.left{
+    padding-top: 90px;
+    height: 100%;
+}
+
+.left img {
+    height: 500px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+}
+/* ===================*/
+.footer p{
+    direction:rtl;
+    display: flex;
+}
